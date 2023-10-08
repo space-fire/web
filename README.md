@@ -1,6 +1,6 @@
 # F.I.R.E Data Visualizer
 
-
+![image](https://github.com/space-fire/web/assets/80173797/c19f8fb7-f03e-418d-9d79-be7782d86bad)
 
 ## Future Features
 - Visualize wind speed and direction
